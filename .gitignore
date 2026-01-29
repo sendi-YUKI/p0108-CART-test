@@ -1,4 +1,9 @@
 .Rproj.user
 .Rhistory
 .RData
+.RDataTmp
 .Ruserdata
+
+# System files
+.DS_Store
+Thumbs.db
